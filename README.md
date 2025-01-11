@@ -1,7 +1,3 @@
-# Data Science Case Study: Handling Imbalanced Data and Model Predictions
-Here’s a description you can use for your GitHub project:
-
----
 
 # **Data Science Case Study: Handling Imbalanced Data and Model Predictions**
 
@@ -53,4 +49,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Would you like me to refine this further or customize it with more details about your specific dataset or findings?
