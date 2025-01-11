@@ -35,7 +35,7 @@ This repository contains a comprehensive data science project that demonstrates 
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Pmbears/Shaadi-Dot-Com-Data-Science-intern-assessment.git
    ```
 2. Open the Jupyter Notebook in your preferred environment.
 3. Run the notebook to reproduce the results.
