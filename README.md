@@ -28,9 +28,9 @@ This repository contains a comprehensive data science project that demonstrates 
 - Comparative analysis of multiple models to choose the best-performing one.
 
 ## **Files in the Repository**
-- `project_notebook.ipynb`: Jupyter Notebook containing the entire analysis, preprocessing, and model training steps.
-- `data/`: Folder containing the training and test datasets used in the project.
-- `predictions/`: Folder with output files containing predictions.
+- `Script.ipynb`: Jupyter Notebook containing the entire analysis, preprocessing, and model training steps.
+- `Data`: Folder containing the training and test datasets used in the project.
+- `Prediction`: Folder with output files containing predictions.
 
 ## **How to Use**
 1. Clone the repository:
